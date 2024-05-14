@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Título por defecto{% endblock %}</title>
+    </head>
+    <body>
+        <header>
+            {% block header %}
+                <h1>Encabezado por defecto</h1>
+            {% endblock %}
+        </header>
+        <div>
+            {% block content %}
+                <h1>Contenido por defecto</h1>
+            {% endblock %}
+        </div>
+        <footer>
+            {% block footer %}
+                <p>Pie de página por defecto</p>
+            {% endblock %}
+        </footer>
+    </body>
+</html>

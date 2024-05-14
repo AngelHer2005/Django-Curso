@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>{% block title %}Título por defecto{% endblock %}</title>
+</head>
+<body>
+    <div>
+        {% block contenedor %}
+        Contenido
+        {% endblock %}
+    </div>
+    <button type="button">{% block button %}boton{% endblock %}</button>
+    
+</body>
+</html>

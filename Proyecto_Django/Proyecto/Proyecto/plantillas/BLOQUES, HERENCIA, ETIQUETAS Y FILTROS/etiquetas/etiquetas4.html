@@ -1,0 +1,13 @@
+<html>
+<body>
+    <h2>Personas mayores de edad:</h2>
+    <ul>
+        {% for nombre, edad in personas.items %}
+            {% if edad >= 18 %}
+                <li>{{nombre}} tiene {{edad}} años</li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Ejemplo Formulario</title>
+    </head>
+    <body>
+        <h1>Contacto</h1>
+        {% if form.errors %}
+        <p style="color: red">Revise este campo, por favor.</p>
+        {% endif %}
+
+        <form action="" method="POST">{% csrf_token %}
+            <table>
+                {{form.as_table}}
+            </table>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>
