@@ -1,5 +1,4 @@
-# DJango-Curso
-*¡Bienvenido al Curso Básico de Django!*
+#¡Bienvenido al Curso Básico de Django!
 
 Estamos encantados de tenerte aquí y esperamos que este curso sea el comienzo de tu emocionante viaje en el desarrollo web con Django. Django es un potente framework de desarrollo web en Python que facilita la creación de aplicaciones web seguras, escalables y con un código limpio y reutilizable.
 
