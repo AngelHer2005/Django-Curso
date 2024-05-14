@@ -11,40 +11,41 @@ Estamos encantados de tenerte aquí y esperamos que este curso sea el comienzo d
 + Instalar Django y configurar tu entorno de desarrollo.
 
 ## 2. Estructura del Proyecto Django:
-Crear y configurar un nuevo proyecto Django.
-Comprender la estructura de un proyecto Django y cómo organizar tu código.
++ Crear y configurar un nuevo proyecto Django.
++ Comprender la estructura de un proyecto Django y cómo organizar tu código.
 
 ## 3. Modelos y Bases de Datos:
-Definir modelos para tus datos.
-Configurar y utilizar bases de datos con Django.
-Realizar migraciones para mantener tu base de datos sincronizada con tus modelos.
++ Definir modelos para tus datos.
++ Configurar y utilizar bases de datos con Django.
++ Realizar migraciones para mantener tu base de datos sincronizada con tus modelos.
 
 ## 4. Vistas y URLs:
-Crear vistas para manejar las solicitudes y respuestas de tu aplicación.
-Configurar URLs para conectar tus vistas con rutas accesibles en tu aplicación web.
++ Crear vistas para manejar las solicitudes y respuestas de tu aplicación.
++ Configurar URLs para conectar tus vistas con rutas accesibles en tu aplicación web.
 
 ## 5. Templates:
-Crear y usar plantillas HTML para renderizar vistas dinámicas.
-Utilizar el motor de plantillas de Django para crear interfaces de usuario atractivas y funcionales.
++ Crear y usar plantillas HTML para renderizar vistas dinámicas.
++ Utilizar el motor de plantillas de Django para crear interfaces de usuario atractivas y funcionales.
 
 ## 6. Formularios:
-Crear y manejar formularios HTML para interactuar con los usuarios.
-Validar y procesar datos de formularios.
++ Crear y manejar formularios HTML para interactuar con los usuarios.
++ Validar y procesar datos de formularios.
 
 ## 7. Django Admin:
-Configurar y personalizar el panel de administración de Django.
-Utilizar el admin de Django para gestionar los datos de tu aplicación.
++ Introducción a Django admin y personalización básica.
++ Personalización y registro de modelos.
++ Creación de campos calculados y formularios personalizados.
 
-## 8. Autenticación y Autorización:
-Implementar autenticación de usuarios.
-Gestionar permisos y acceso a diferentes partes de tu aplicación.
-Requisitos Previos
+## 8. MIDDLEWARE Y SESIONES: 
++ Middleware.
++ Manejos de sesiones.
++ Autenticación y autorización.
 
 ## 9. APIs REST:
-Introducción a las APIs REST.
-Serialización de modelos y otras fuentes de datos. 
-Filtrado, paginación y límites temoirales de uso. 
-Ruteadores, conjunto de vistas, AJAX, CSRF, CORS.
++ Introducción a las APIs REST.
++ Serialización de modelos y otras fuentes de datos. 
++ Filtrado, paginación y límites temoirales de uso. 
++ Ruteadores, conjunto de vistas, AJAX, CSRF, CORS.
 
 # IMPORTANTE:
 Antes de comenzar este curso, se recomienda tener un conocimiento básico de Python y HTML. Aunque no es estrictamente necesario, esto te ayudará a seguir el contenido con mayor facilidad.
