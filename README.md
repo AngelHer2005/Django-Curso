@@ -2,7 +2,7 @@
 ![Django](https://res.cloudinary.com/escalante-rep/image/upload/v1580522825/tstloezpvz87c2agrgja.jpg)
 ---
 
-Estamos encantados de tenerte aquí y esperamos que este curso sea el comienzo de tu emocionante viaje en el desarrollo web con Django. Django es un potente framework de desarrollo web en Python que facilita la creación de aplicaciones web seguras, escalables y con un código limpio y reutilizable.
+Estoy encantado de tenerte aquí y espero que este curso sea el comienzo de tu emocionante viaje en el desarrollo web con Django. Django es un potente framework de desarrollo web en Python que facilita la creación de aplicaciones web seguras, escalables y con un código limpio y reutilizable.
 
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>**¿Qué aprenderás en este curso?**<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
