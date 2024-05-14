@@ -2,10 +2,9 @@
 
 Estamos encantados de tenerte aquí y esperamos que este curso sea el comienzo de tu emocionante viaje en el desarrollo web con Django. Django es un potente framework de desarrollo web en Python que facilita la creación de aplicaciones web seguras, escalables y con un código limpio y reutilizable.
 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>*¿Qué aprenderás en este curso?*<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>**¿Qué aprenderás en este curso?**<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
-Introducción a Django:
-
+### Introducción a Django:
 Entender qué es Django y por qué es tan popular.
 Instalar Django y configurar tu entorno de desarrollo.
 Estructura del Proyecto Django:
@@ -44,7 +43,5 @@ Recursos Adicionales
 Documentación Oficial de Django: Django Documentation
 Python Docs: Python Documentation
 Comunidad Django: Únete a foros y grupos en línea para compartir y aprender con otros desarrolladores de Django.
-¡Empecemos!
-Estamos entusiasmados de comenzar este viaje contigo. A lo largo del curso, trabajarás en varios proyectos prácticos que te ayudarán a consolidar lo que aprendas. No dudes en hacer preguntas y experimentar con el código.
-
-¡Vamos a construir algo increíble juntos con Django!
+# ¡Empecemos!
+<center>¡Vamos a construir algo increíble juntos con Django!</center>
