@@ -7,8 +7,8 @@ Estamos encantados de tenerte aquí y esperamos que este curso sea el comienzo d
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>**¿Qué aprenderás en este curso?**<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 
 ## 1. Introducción a Django:
-Entender qué es Django y por qué es tan popular.
-Instalar Django y configurar tu entorno de desarrollo.
++ Entender qué es Django y por qué es tan popular.
++ Instalar Django y configurar tu entorno de desarrollo.
 
 ## 2. Estructura del Proyecto Django:
 Crear y configurar un nuevo proyecto Django.
@@ -40,7 +40,11 @@ Implementar autenticación de usuarios.
 Gestionar permisos y acceso a diferentes partes de tu aplicación.
 Requisitos Previos
 
-## 9. REST:
+## 9. APIs REST:
+Introducción a las APIs REST.
+Serialización de modelos y otras fuentes de datos. 
+Filtrado, paginación y límites temoirales de uso. 
+Ruteadores, conjunto de vistas, AJAX, CSRF, CORS.
 
 # IMPORTANTE:
 Antes de comenzar este curso, se recomienda tener un conocimiento básico de Python y HTML. Aunque no es estrictamente necesario, esto te ayudará a seguir el contenido con mayor facilidad.
