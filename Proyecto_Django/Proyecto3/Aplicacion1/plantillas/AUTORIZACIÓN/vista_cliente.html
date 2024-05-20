@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tabla de Clientes</title>
+</head>
+<body>
+    <h1>Tabla de Clientes</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NOMBRE</th>
+                <th>EMAIL</th>
+                <th>EDAD</th>
+                <th>SOLTERO</th>
+                <th>DESCRIPCIÓN</th>
+                <th>CUMPLEAÑOS</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for i in datos %}
+                <tr>
+                    <td>{{ i.id }}</td>
+                    <td>{{ i.nombre }}</td>
+                    <td>{{ i.email }}</td>
+                    <td>{{ i.edad }}</td>
+                    <td>{{ i.soltero }}</td>
+                    <td>{{ i.descripcion }}</td>
+                    <td>{{ i.cumpleaños }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

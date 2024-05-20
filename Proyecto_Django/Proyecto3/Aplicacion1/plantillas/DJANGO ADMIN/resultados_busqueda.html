@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resultados de Búsqueda</title>
+</head>
+<body>
+    <h1>Resultados de Búsqueda</h1>
+    <p>Resultados para: "{{ query }}"</p>
+    <ul>
+        {% for articulo in articulos %}
+            <li>Nombre: {{ articulo.nombre }} - Sección: {{ articulo.marca }} - Precio: S/. {{ articulo.precio }}</li>
+        {% empty %}
+            <li>No se encontraron resultados</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
