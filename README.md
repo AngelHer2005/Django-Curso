@@ -1,4 +1,4 @@
-# ¡Bienvenido al Curso Básico de Django! (En Proceso)
+# ¡Bienvenido al Curso Básico de Django! 
 ![Django](https://res.cloudinary.com/escalante-rep/image/upload/v1580522825/tstloezpvz87c2agrgja.jpg)
 ---
 
